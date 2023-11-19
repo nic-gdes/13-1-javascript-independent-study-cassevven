@@ -1,8 +1,8 @@
 /*
-querySelectorAll()
-addEventListener()
-forEach()
-if/else statements
+querySelectorAll()---To select classes from html
+addEventListener()---To make the page interactive when the buttons are clicked
+forEach()---To make the slider function in frame and move to the left and then back
+if/else statements---To make the previous/next buttons act in accordance to which picture is showing
 */
 
 const slides = document.querySelectorAll(".slide");
